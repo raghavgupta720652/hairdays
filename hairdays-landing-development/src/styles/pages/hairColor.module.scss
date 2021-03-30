@@ -1,0 +1,101 @@
+.content-header {
+  max-width: 555px;
+  width: 100%;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: calc(44 / 36);
+  padding: 15px 0;
+  margin: 0;
+}
+
+.content-text {
+  color: #595a5a;
+  line-height: calc(24 / 12);
+}
+
+.orange-text {
+  color: #ff6348;
+}
+
+.lib-tooltip {
+  width: 278px;
+
+}
+
+.tooltip {
+  cursor: pointer;
+  position: relative;
+  z-index: 1;
+  & > * {
+    box-sizing: border-box;
+  }
+  &:hover > span {
+    opacity: 1;
+    visibility: visible;
+  }
+  &-box {
+    position: absolute;
+    top: 50%;
+    left: calc(100% + 20px);
+    transform: translateY(-50%);
+    width: 278px;
+    padding: 11px 15px;
+    border: 1px solid #34ccbf;
+    border-radius: 4px;
+    background-color: #fff;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 1.5;
+    cursor: default;
+    opacity: 0;
+    visibility: hidden;
+    box-shadow: 0px 5px 15px 0px rgba(225, 230, 230, 0.7);
+    transition: .5s all .3s ease;
+    &::before {
+      content: '';
+      position: absolute;
+      top: calc(50% - 3px);
+      left: -3px;
+      width: 15px;
+      height: 15px;
+      border-top: 1px solid #34ccbf;
+      border-left: 1px solid #34ccbf;
+      background-color: #fff;
+      transform: rotate(-45deg) translateY(-50%);
+    }
+  }
+}
+
+.info-icon {
+  vertical-align: center;
+}
+
+.content-section {
+  height: 100%;
+}
+
+.hair-goals-list {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0;
+
+  .hair-goals-list-item {
+    height: 118px;
+    width: 32%;
+    display: flex;
+    margin: 15px 12px 12px 0;
+  }
+}
+
+.image {
+  height: 118px;
+  width: 160px;
+}
+
+.buttons-container {
+  display: flex;
+  justify-content: center;
+  max-height: 100px;
+  height: 100%;
+  align-items: flex-end;
+}

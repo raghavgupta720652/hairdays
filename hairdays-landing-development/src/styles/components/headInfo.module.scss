@@ -1,0 +1,124 @@
+.head-info {
+
+  &-wrapper {
+    margin-bottom: 125px;
+    background-color: #34ccbf;
+    width: 100%;
+  
+    @media (max-width: 1023px) {
+      margin-bottom: 40px;
+    }
+  
+    @media (max-width: 767px) {
+      margin-bottom: 14px;
+    }
+  }
+
+  &-section {
+    padding-left: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+
+    @media (max-width: 767px) {
+      padding: 36px 0 28px;
+      flex-direction: column;
+    }
+  }
+
+  &-banner {
+    margin: 0 auto;
+    max-width: 415px;
+    color: #FFF;
+    position: relative;
+    z-index: 2;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+    @media (max-width: 1023px) {
+      max-width: 320px;
+    }
+  
+    @media (max-width: 767px) {
+      max-width: 100%;
+    }
+  }
+
+  &-content {
+    position: relative;
+    z-index: 3;
+  }
+
+  &-title {
+    margin: 0;
+    font-size: 60px;
+
+    @media (max-width: 1023px) {
+      font-size: 40px;
+    }
+
+    @media (max-width: 767px) {
+      font-size: 28px;
+      text-align: center;
+    }
+
+    & + .head-info-text {
+      padding-top: 29px;
+
+      @media (max-width: 1023px) {
+        padding-bottom: 20px;
+      }
+
+      @media (max-width: 767px) {
+        padding-bottom: 13px;
+      }
+    }
+  }
+
+  &-text {
+    margin: 0;
+    line-height: 24px;
+
+    @media (max-width: 1023px) {
+      font-size: 16px;
+      line-height: 1.5;
+    }
+
+    @media (max-width: 767px) {
+      margin-bottom: 25px;
+      text-align: center;
+    }
+  }
+
+  &-image {
+    margin-top: 27px;
+    margin-left: auto;
+    max-width: 506px;
+    width: 100%;
+    height: auto;
+  
+    @media (max-width: 1023px) {
+      max-width: 306px;
+    }
+  
+    @media (max-width: 767px) {
+      display: none;
+    }
+  
+    &-mobile {
+      display: none;
+  
+      @media (max-width: 767px) {
+        margin: 0 auto;
+        max-width: 81%;
+        display: block;
+      }
+    }
+  }
+}

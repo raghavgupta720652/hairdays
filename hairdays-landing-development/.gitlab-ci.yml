@@ -1,0 +1,22 @@
+image: node:latest
+
+stages:
+  - build
+
+#before_script:
+
+build:
+  stage: build
+  only:
+    - development
+  script:
+      - apt-get update -qy
+      - apt-get install -y lftp
+      - npm install -g gatsby-cli
+      - npm install
+      - mkdir content/posts
+      - gatsby info
+      - gatsby build
+      - lftp -c "set ssl:verify-certificate no;;open -u $FTP_USERNAME,$FTP_PASSWORD $FTP_HOST -p 21; mirror -Rev  --ignore-time --parallel=10 --exclude-glob .git* --exclude .git/ --verbose ./public/ ./; bye"
+  tags:
+      - docker

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="122px" height="122px" viewBox="0 0 122 122" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 3</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Quiz_page_q5_1920" transform="translate(-899.000000, -562.000000)">
+            <g id="Group-4" transform="translate(421.000000, 562.000000)">
+                <g id="Group-5" transform="translate(79.000000, 0.000000)">
+                    <g id="Group-3" transform="translate(400.000000, 0.289040)">
+                        <path d="M0,53.9487782 C31.2127909,55.3160116 48.9246226,56.8350427 53.1354951,58.5058717 C59.4518037,61.0121152 48.777478,98.7033837 60,98.7033837 C71.222522,98.7033837 58.6611739,60.7109603 65.2128213,58.5058717 C69.5805862,57.0358127 87.8429791,55.5167815 120,53.9487782" id="Path-3" stroke="#A7ADAD"></path>
+                        <path d="M59,27 C59,27 58.2426071,41.4750904 57.0454468,60.7109603 C56.0306906,77.015976 53.0779847,97.0393652 60.5,97.0393652 C65.7757072,97.0393652 63.5689302,76.7134845 62,60.6243425 C60.2765381,42.9505016 59.2890979,30.4265857 59.0507965,27.3955764 C59.0125599,26.9092358 59,27 59,27 Z" id="Path-4" fill="#030303"></path>
+                        <circle id="Oval-Copy" stroke="#A7ADAD" cx="60" cy="60.7109603" r="60"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

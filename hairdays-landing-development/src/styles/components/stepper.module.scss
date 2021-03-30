@@ -1,0 +1,31 @@
+.stepper-container {
+  margin-bottom: 19px;
+  display: flex;
+  padding: 0;
+
+  .step {
+    border-radius: 4px;
+    margin-right: 10px;
+    height: 8px;
+    width: 19px;
+    background-color: #e0e0e0;
+
+    @media (max-width: 767px) {
+      margin-right: 8px;
+      width: 12px;
+    }
+  }
+
+  .step.active {
+    width: 38px;
+    background-color: #ff6348;
+
+    @media (max-width: 767px) {
+      width: 20px;
+    }
+  }
+
+  .step.passed {
+    background-color: #ff6348;
+  }
+}

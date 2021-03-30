@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="10px" viewBox="0 0 32 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Rectangle Copy 20</title>
+    <defs>
+        <pattern id="pattern-1" patternUnits="objectBoundingBox" y="-25%" height="125%" width="100%">
+            <use xlink:href="#image-2" transform="scale(0.75,0.75)"></use>
+        </pattern>
+        <image id="image-2" width="48" height="48" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABGdBTUEAALGOfPtRkwAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAMKADAAQAAAABAAAAMAAAAADbN2wMAAADDElEQVRoBe2WS4iNYRjHz5BLM+7KJbnfLcgtojSNKLKViSRTEylkgyiTcklKFrJgMVNiY2VhZzOJhUskjdFgzrAZ1+Q2M4zL7z/ne/Ser++c850lPf/6zfu+z+W9PN/7fXMyGZdXwCvgFfAKeAW8Al4Br4BXwCvgFfhHK9A/xb4riRkBFfAjRbyFDKYzErTGdzOmbKuI05pSOWvmMqK/S2gvQAt0wlNogpVQTPNwnoVHoLw2uAJroJRWENAIraDcJ3ARlkJZ2kX0J/idQBe2g6AnElcthteQlNeL/SQMgLg01374Ckm5n7HvhlTaSJQeuSZ6CadhB5yAZ2AL1NMPVc3gC8j/Bs7BTmiAx2B5B+jHVYfB/FpDa2nNU5AF+XSVVKCi0r2zxR7QnxWLnsT4FmjCDhgH0kBoBtmzsBhCjWFwHeT/ADPBJF87yHcbJkOoGQzugfy6UqOgoNbh+QV6AmsLRC3D/g004eYoRne0B5S7LbLFG236PShvT+DcFNk0p96BJNVg7AblbggD+oUD+nNA9zELdyFJejJ6zJJeWGka6Cl8hBuQJL3MypXm5pq8/gtG9wN72JW9PTJoj38VP4A5dNJCks/8Omyo0BfarW95Ng7bUrkWm7dm/AD6VEpTYJE6CVqATfdSask1GVVP107f/ZrIFm+mY1gYGVsDp/VDf+Du6ypvamS0+HhM31gb0KZUDb04mjTUBAbNIP8rGA/SILgJsut66ZChRjO4BvLrms0G01g6HSCf5pgIobTxOyC/Cqy5iqoWby8oQZU9DtuhAXR62YU+kaFWM7CXu5P+GaiDQ/AQLO8w/bjqMZhfmzwKWvMYPAf5fsIWSKW9RNk33Sa2tgffEYhfP028Fd6BxYatNqD/KXrZ46rAoIN1Q5hjff2D2wdlaTnRjdAG2pQqcRmqoZjm4zwPuopvIQtXYT2U0ioCLoGuodZU2wSFPq+JPweIz9NQRkNAVdDPi7SqJHA4dIHufTkaRnAV6BboZ4TLK+AV8Ap4BbwCXgGvgFfAK+AV8Ar8fxX4A219zU8wr8X/AAAAAElFTkSuQmCC"></image>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Quiz_page_q13_1920" transform="translate(-829.000000, -729.000000)" fill="url(#pattern-1)">
+            <g id="Group" transform="translate(405.000000, 409.000000)">
+                <rect id="Rectangle-Copy-20" x="422" y="313" width="36" height="24"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

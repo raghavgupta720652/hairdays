@@ -1,0 +1,13 @@
+{
+  "greenLogo": "/uploads/green-logo.png",
+  "quizBanner": "/uploads/banner.svg",
+  "quizBannerImage": "/uploads/banner-image-mobile.svg",
+  "mainContentLogo": "/uploads/home-page-app-img.png",
+  "downloadGooglePlay": "/uploads/download-google.svg",
+  "downloadAppleStore": "/uploads/download_apple.svg",
+  "bannerHeaderText": "HairDays Beta",
+  "bannerText": "Request to join our beta and gain exclusive early access to the HairDays app!",
+  "mainContentHeader": "Your personal hair\n diary",
+  "aboutUsImg": "/uploads/about-us.svg",
+  "mobileQuizBanner": "/uploads/mobileQuizBanner.svg"
+}

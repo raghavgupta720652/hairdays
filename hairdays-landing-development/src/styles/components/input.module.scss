@@ -1,0 +1,45 @@
+.input-block {
+    display: block;
+    
+    .label {
+        display: block;
+        color: #595a5a;
+        font-size: 12px;
+    }
+
+    .input {
+        padding: 13px 0;
+        display: block;
+        width: 100%;
+        border-radius: 0;
+        border: none;
+        border-bottom: 1px solid #e9e9e9;
+        color: #595a5a;
+        font-size: 16px;
+        font-weight: 400;
+
+        &:focus {
+            outline: none;
+        }
+
+        &::-webkit-input-placeholder {
+            color: #595a5a;
+            font-weight: 700;
+        }
+
+        &::-moz-placeholder {
+            color: #595a5a;
+            font-weight: 700;
+        }
+
+        &:-ms-input-placeholder {
+            color: #595a5a;
+            font-weight: 700;
+        }
+
+        &:-moz-placeholder {
+            color: #595a5a;
+            font-weight: 700;
+        }
+    }
+}

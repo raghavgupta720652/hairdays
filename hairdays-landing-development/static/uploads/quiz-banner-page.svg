@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="268px" height="337px" viewBox="0 0 268 337" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>qiuz</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Quiz_page_start-q1_1920" transform="translate(-1009.000000, -223.000000)">
+            <g id="Quiz" transform="translate(0.000000, 159.000000)">
+                <g id="qiuz" transform="translate(1009.000000, 64.000000)">
+                    <polygon id="Fill-1" fill="#28A196" points="250.977556 0 0 13.1080876 17.0217759 336.8 268 323.692578"></polygon>
+                    <polygon id="Fill-2" fill="#6BD6CD" points="8 330.4 259.2 330.4 259.2 6.4 8 6.4"></polygon>
+                    <polygon id="Fill-3" fill="#E4F3F2" points="44.8 46.4 223.2 46.4 223.2 42.4 44.8 42.4"></polygon>
+                    <polygon id="Fill-4" fill="#E4F3F2" points="44.8 54.4 223.2 54.4 223.2 50.4 44.8 50.4"></polygon>
+                    <polygon id="Fill-5" fill="#E4F3F2" points="44.8 62.4 223.2 62.4 223.2 58.4 44.8 58.4"></polygon>
+                    <path d="M46.7308126,82.0691874 L52.4691874,82.0691874 L52.4691874,76.3308126 L46.7308126,76.3308126 L46.7308126,82.0691874 Z M44.8,84 L54.4,84 L54.4,74.4 L44.8,74.4 L44.8,84 Z" id="Fill-6" fill="#E4F3F2"></path>
+                    <polygon id="Fill-7" fill="#E4F3F2" points="62.4 81.6 133.6 81.6 133.6 77.6 62.4 77.6"></polygon>
+                    <path d="M46.7308126,96.4691874 L52.4691874,96.4691874 L52.4691874,90.7308126 L46.7308126,90.7308126 L46.7308126,96.4691874 Z M44.8,98.4 L54.4,98.4 L54.4,88.8 L44.8,88.8 L44.8,98.4 Z" id="Fill-8" fill="#E4F3F2"></path>
+                    <polygon id="Fill-9" fill="#E4F3F2" points="62.4 95.2 133.6 95.2 133.6 91.2 62.4 91.2"></polygon>
+                    <path d="M46.7308126,110.069187 L52.4691874,110.069187 L52.4691874,104.330813 L46.7308126,104.330813 L46.7308126,110.069187 Z M44.8,112 L54.4,112 L54.4,102.4 L44.8,102.4 L44.8,112 Z" id="Fill-10" fill="#E4F3F2"></path>
+                    <polygon id="Fill-11" fill="#E4F3F2" points="62.4 109.6 133.6 109.6 133.6 105.6 62.4 105.6"></polygon>
+                    <polygon id="Fill-12" fill="#E4F3F2" points="44.8 228.8 223.2 228.8 223.2 224.8 44.8 224.8"></polygon>
+                    <polygon id="Fill-13" fill="#E4F3F2" points="44.8 236.8 223.2 236.8 223.2 232.8 44.8 232.8"></polygon>
+                    <polygon id="Fill-14" fill="#E4F3F2" points="44.8 244.8 223.2 244.8 223.2 240.8 44.8 240.8"></polygon>
+                    <path d="M46.7308126,264.469187 L52.4691874,264.469187 L52.4691874,258.730813 L46.7308126,258.730813 L46.7308126,264.469187 Z M44.8,266.4 L54.4,266.4 L54.4,256.8 L44.8,256.8 L44.8,266.4 Z" id="Fill-15" fill="#E4F3F2"></path>
+                    <polygon id="Fill-16" fill="#E4F3F2" points="62.4 264 133.6 264 133.6 260 62.4 260"></polygon>
+                    <path d="M46.7308126,278.869187 L52.4691874,278.869187 L52.4691874,273.130813 L46.7308126,273.130813 L46.7308126,278.869187 Z M44.8,280.8 L54.4,280.8 L54.4,271.2 L44.8,271.2 L44.8,280.8 Z" id="Fill-17" fill="#C6C6C5"></path>
+                    <polygon id="Fill-18" fill="#C6C6C5" points="62.4 277.6 133.6 277.6 133.6 273.6 62.4 273.6"></polygon>
+                    <path d="M46.7308126,292.469187 L52.4691874,292.469187 L52.4691874,286.730813 L46.7308126,286.730813 L46.7308126,292.469187 Z M44.8,294.4 L54.4,294.4 L54.4,284.8 L44.8,284.8 L44.8,294.4 Z" id="Fill-19" fill="#C6C6C5"></path>
+                    <polygon id="Fill-20" fill="#C6C6C5" points="62.4 292 133.6 292 133.6 288 62.4 288"></polygon>
+                    <polygon id="Fill-21" fill="#E4F3F2" points="44.8 137.6 223.2 137.6 223.2 133.6 44.8 133.6"></polygon>
+                    <polygon id="Fill-22" fill="#E4F3F2" points="44.8 145.6 223.2 145.6 223.2 141.6 44.8 141.6"></polygon>
+                    <path d="M46.7308126,173.269187 L52.4691874,173.269187 L52.4691874,167.530813 L46.7308126,167.530813 L46.7308126,173.269187 Z M44.8,175.2 L54.4,175.2 L54.4,165.6 L44.8,165.6 L44.8,175.2 Z" id="Fill-23" fill="#E4F3F2"></path>
+                    <polygon id="Fill-24" fill="#E4F3F2" points="62.4 172.8 133.6 172.8 133.6 168.8 62.4 168.8"></polygon>
+                    <path d="M46.7308126,187.669187 L52.4691874,187.669187 L52.4691874,181.930813 L46.7308126,181.930813 L46.7308126,187.669187 Z M44.8,189.6 L54.4,189.6 L54.4,180 L44.8,180 L44.8,189.6 Z" id="Fill-25" fill="#E4F3F2"></path>
+                    <polygon id="Fill-26" fill="#E4F3F2" points="62.4 186.4 133.6 186.4 133.6 182.4 62.4 182.4"></polygon>
+                    <path d="M46.7308126,201.269187 L52.4691874,201.269187 L52.4691874,195.530813 L46.7308126,195.530813 L46.7308126,201.269187 Z M44.8,203.2 L54.4,203.2 L54.4,193.6 L44.8,193.6 L44.8,203.2 Z" id="Fill-27" fill="#E4F3F2"></path>
+                    <polygon id="Fill-28" fill="#E4F3F2" points="62.4 200.8 133.6 200.8 133.6 196.8 62.4 196.8"></polygon>
+                    <polygon id="Fill-29" fill="#E4F3F2" points="44 153.6 133.6 153.6 133.6 149.6 44 149.6"></polygon>
+                    <g id="checkmark" transform="translate(46.400000, 166.400000)" stroke="#FF6348" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.4">
+                        <line x1="0.4" y1="2.8" x2="3.2" y2="5.6" id="Stroke-32"></line>
+                        <line x1="8.8" y1="0" x2="3.2" y2="5.6" id="Stroke-33"></line>
+                    </g>
+                    <g id="checkmark" transform="translate(46.400000, 89.600000)" stroke="#FF6348" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.4">
+                        <line x1="0.4" y1="2.8" x2="3.2" y2="5.6" id="Stroke-32"></line>
+                        <line x1="8.8" y1="0" x2="3.2" y2="5.6" id="Stroke-33"></line>
+                    </g>
+                    <line x1="46.4" y1="287.2" x2="52" y2="292.8" id="Stroke-34" stroke="#2D2D2C" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"></line>
+                    <line x1="52" y1="287.2" x2="46.4" y2="292.8" id="Stroke-35" stroke="#2D2D2C" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

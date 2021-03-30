@@ -1,0 +1,16 @@
+export const quizPages = [
+  { url: '/start-quiz', pageName: 'Start quiz' },
+  { url: '/dominant-hair-types', pageName: 'Dominant hair type' },
+  { url: '/haircare-goals', pageName: 'Haircare goals' },
+  { url: '/hair-density', pageName: 'Hair density' },
+  { url: '/hair-texture', pageName: 'Hair texture' },
+  { url: '/hair-porosity', pageName: 'Hair porosity' },
+  { url: '/hair-status', pageName: 'Hair status' },
+  { url: '/hair-condition', pageName: 'Hair condition' },
+  { url: '/hair-long', pageName: 'Hair long' },
+  { url: '/washing-frequency', pageName: 'Hair washing' },
+  { url: '/hair-color', pageName: 'Hair color' },
+  { url: '/hair-brands', pageName: 'Haircare brands' },
+  { url: '/hair-products', pageName: 'Shopping places' },
+  { url: '/final-step', pageName: 'Final step' },
+];

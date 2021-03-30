@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="81px" viewBox="0 0 80 81" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 6</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Quiz_page_q2_320-" transform="translate(-220.000000, -231.000000)">
+            <g id="Group-6" transform="translate(220.000000, 231.000000)">
+                <rect id="Rectangle" fill="#EBFAF9" x="0" y="0" width="80" height="80" rx="15"></rect>
+                <g id="1c" transform="translate(25.454545, 2.181818)" stroke="#595A5A" stroke-linecap="square" stroke-width="3">
+                    <line x1="0.363636364" y1="6.73575217e-17" x2="0.363636364" y2="76.3636364" id="Line-2"></line>
+                    <line x1="7.63636364" y1="6.73575217e-17" x2="7.63636364" y2="76.3636364" id="Line-2"></line>
+                    <line x1="14.9090909" y1="6.73575217e-17" x2="14.9090909" y2="76.3636364" id="Line-2"></line>
+                    <line x1="22.1818182" y1="6.73575217e-17" x2="22.1818182" y2="76.3636364" id="Line-2"></line>
+                    <line x1="29.4545455" y1="6.73575217e-17" x2="29.4545455" y2="76.3636364" id="Line-2"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

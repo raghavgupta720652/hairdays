@@ -1,0 +1,118 @@
+.download-app {
+
+    &-wrapper {
+        padding: 113px 0;
+        background-color: #ebfAf9;
+
+        @media (max-width: 1023px) {
+            padding: 60px 0;
+        }
+
+        @media (max-width: 767px) {
+            padding: 15px 0;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            height: 459px;
+        }
+    }
+
+    &-block {
+        margin: 0 auto;
+        padding: 0 34px;
+        max-width: 533px;
+
+        @media (max-width: 1023px) {
+            padding: 0 24px;
+            max-width: 433px;
+        }
+
+        @media (max-width: 767px) {
+            padding: 0;
+            max-width: 100%;
+        }
+    }
+
+    &-img {
+        margin: 0 auto 63px;
+        display: block;
+        width: 464px;
+        height: 464px;
+        border-radius: 50%;
+        overflow: hidden;
+        object-fit: contain;
+
+        @media (max-width: 1023px) {
+            margin-bottom: 35px;
+            width: 364px;
+            height: 364px;
+        }
+
+        @media (max-width: 767px) {
+            display: none;
+        }
+    }
+
+    &-title {
+        margin-bottom: 20px;
+        display: block;
+        color: #030303;
+        font-size: 48px;
+        line-height: 1.25;
+        font-weight: 700;
+        text-align: center;
+
+        @media (max-width: 1023px) {
+            font-size: 35px;
+        }
+
+        @media (max-width: 767px) {
+            margin-bottom: 8px;
+            font-size: 28px;
+            line-height: 1.5;
+        }
+    }
+
+    &-description {
+        margin: 0 0 27px;
+        text-align: center;
+
+        @media (max-width: 767px) {
+            margin-bottom: 37px;
+            color: #595a5a;
+        }
+    }
+
+    &-list {
+        display: flex;
+        justify-content: center;
+
+        @media (max-width: 767px) {
+            margin: 0 -6px;
+        }
+    }
+
+    &-item {
+        padding: 0 6px;
+    }
+
+    &-link {
+        padding: 6px 12px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 147px;
+        height: 100%;
+        background-color: #000;
+        border-radius: 8px;
+
+        @media (max-width: 767px) {
+            padding: 5px 9px;
+            width: 134px;
+        }
+
+        img {
+            max-width: 100%;
+        }
+    }
+}

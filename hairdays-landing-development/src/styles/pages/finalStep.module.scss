@@ -1,0 +1,31 @@
+.wrapper {
+    margin: 0 auto;
+    padding: 19px 0 0;
+    max-width: 345px;
+}
+
+.title {
+    margin: 0 0 28px;
+    color: #030303;
+    font-size: 48px;
+    text-align: center;
+
+    @media (max-width: 767px) {
+        margin-bottom: 12px;
+        font-size: 28px;
+    }
+}
+
+.description {
+    margin: 0 0 28px;
+    color: #595a5a;
+    font-size: 16px;
+
+    @media (max-width: 767px) {
+        margin-bottom: 25px;
+    }
+}
+
+.formItem {
+    margin-bottom: 32px;
+}

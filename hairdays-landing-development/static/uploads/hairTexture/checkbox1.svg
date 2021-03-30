@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="82px" height="82px" viewBox="0 0 82 82" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Quiz_page_q5_320" transform="translate(-19.000000, -290.000000)">
+            <g id="1" transform="translate(20.000000, 291.000000)">
+                <rect id="Rectangle" stroke="#A7ADAD" x="0" y="0" width="80" height="80" rx="10"></rect>
+                <g id="Group-28" transform="translate(0.000000, 17.000000)">
+                    <g id="Group-3" transform="translate(0.000000, 0.526026)">
+                        <path d="M0,17.9658521 C21.2041681,18.513942 33.2098762,19.34493 36.0171245,20.458816 C40.227997,22.129645 35.1232763,49.3333333 40.3333333,49.3333333 C45.5433904,49.3333333 38.3928536,23.960852 41.968122,20.458816 C44.3516342,18.1241253 57.0289269,17.2931374 80,17.9658521" id="Path-3" stroke="#A7ADAD" stroke-width="0.5"></path>
+                        <path d="M38.9547517,0 C38.9547517,0 39.1490008,8.46359284 38.9547517,21.2875061 C38.7900991,32.1575166 37.5352201,47.994972 40.2940254,47.994972 C43.3447679,47.994972 39.8684967,32.0136008 39.6139249,21.2875061 C39.2894084,7.6143748 38.9547517,0 38.9547517,0 Z" id="Path-4" fill="#030303"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,933 @@
+{
+  "startQuizPage": {
+    "greenLogo": "/uploads/green-logo.png",
+    "quizBannerBg": "/uploads/hair-quiz-header-background.png",
+    "bannerIcons": "/uploads/hair-quiz-header-icons.png",
+    "bannerImage": "/uploads/quiz-banner-image.svg",
+    "bannerImageMobile": "/uploads/banner-image-mobile.svg",
+    "infoIcon": "/uploads/info-icon.svg",
+    "tooltipIcon": "/uploads/icon-tooltip.png",
+    "quizBannerPage": "/uploads/quiz-banner-page.svg",
+    "uploadImageIcon": "/uploads/add-image-button.svg",
+    "bannerHeaderText": "The Hair Quiz",
+    "bannerText": "Complete our short hair quiz and have Layla, our Ai, provide product recommendations that match your hair profile.",
+    "tooltipText": "Tooltip with explanation how to define hair type. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "defaultImage": "/uploads/hairLong/0.svg"
+  },
+  "dominant_hair_types": [
+    {
+      "text": "1A Straight",
+      "url":"/uploads/dominantHairTypes/1.svg",
+      "tooltip": false
+    },
+    {
+      "text": "1B Straight",
+      "url":"/uploads/dominantHairTypes/2.svg",
+      "tooltip": false
+    },
+    {
+      "text": "1C Straight",
+      "url":"/uploads/dominantHairTypes/3.svg",
+      "tooltip": false
+    },
+    {
+      "text": "2A Wavy",
+      "url":"/uploads/dominantHairTypes/4.svg",
+      "tooltip": false
+    },
+    {
+      "text": "2B Wavy",
+      "url":"/uploads/dominantHairTypes/5.svg",
+      "tooltip": true
+    },
+    {
+      "text": "2C Wavy",
+      "url":"/uploads/dominantHairTypes/6.svg",
+      "tooltip": false
+    },
+    {
+      "text": "3A Curly",
+      "url":"/uploads/dominantHairTypes/7.svg",
+      "tooltip": false
+    },
+    {
+      "text": "3B Curly",
+      "url":"/uploads/dominantHairTypes/8.svg",
+      "tooltip": false
+    },
+    {
+      "text": "3C Curly",
+      "url":"/uploads/dominantHairTypes/9.svg",
+      "tooltip": false
+    },
+    {
+      "text": "4A Kinky",
+      "url":"/uploads/dominantHairTypes/10.svg",
+      "tooltip": false
+    },
+    {
+      "text": "4B Kinky",
+      "url":"/uploads/dominantHairTypes/11.svg",
+      "tooltip": false
+    },
+    {
+      "text": "4C Kinky",
+      "url":"/uploads/dominantHairTypes/12.svg",
+      "tooltip": false
+    }
+  ],
+  "haircare_goals": [
+    {
+      "text": "Longer Hair",
+      "url":"/uploads/haircareGoals/haircare-goal-1.png"
+    },
+    {
+      "text": "Healthier Hair",
+      "url":"/uploads/haircareGoals/haircare-goal-2.png"
+    },
+    {
+      "text": "Transition Hair",
+      "url":"/uploads/haircareGoals/haircare-goal-3.png"
+    },
+    {
+      "text": "Stop using heat",
+      "url":"/uploads/haircareGoals/haircare-goal-4.png"
+    },
+    {
+      "text": "Go natural",
+      "url":"/uploads/haircareGoals/haircare-goal-5.png"
+    },
+    {
+      "text": "Thicker Hair",
+      "url":"/uploads/haircareGoals/haircare-goal-6.png"
+    },
+    {
+      "text": "Less oily Hair",
+      "url":"/uploads/haircareGoals/haircare-goal-7.png"
+    },
+    {
+      "text": "Less dry Hair",
+      "url":"/uploads/haircareGoals/haircare-goal-8.png"
+    },
+    {
+      "text": "Other goal",
+      "url":"/uploads/haircareGoals/haircare-goal-9.png"
+    }
+  ],
+  "hair_color": [
+    {
+      "text": "Black",
+      "url":"/uploads/hairColor/black-hair.png"
+    },
+    {
+      "text": "Brown",
+      "url":"/uploads/hairColor/brown-hair.png"
+    },
+    {
+      "text": "Blond",
+      "url":"/uploads/hairColor/blond-hair.png"
+    },
+    {
+      "text": "Red",
+      "url":"/uploads/hairColor/red-hair.png"
+    },
+    {
+      "text": "Pink",
+      "url":"/uploads/hairColor/pink-hair.png"
+    },
+    {
+      "text": "Blue",
+      "url":"/uploads/hairColor/blue-hair.png"
+    },
+    {
+      "text": "Purple",
+      "url":"/uploads/hairColor/purple-hair.png"
+    },
+    {
+      "text": "Green",
+      "url":"/uploads/hairColor/green-hair.png"
+    },
+    {
+      "text": "Yellow",
+      "url":"/uploads/hairColor/yellow-hair.png"
+    }
+  ],
+  "hair_status": [
+    {
+      "text": "Natural",
+      "url":"/uploads/hairStatus/natural.png"
+    },
+    {
+      "text": "Relaxed",
+      "url":"/uploads/hairStatus/relaxed.png"
+    },
+    {
+      "text": "Texturized",
+      "url":"/uploads/hairStatus/texturized.png"
+    },
+    {
+      "text": "Permed (curly)",
+      "url":"/uploads/hairStatus/curly.png"
+    },
+    {
+      "text": "Dyed",
+      "url":"/uploads/hairStatus/dyed.png"
+    }
+  ],
+  "hair_condition": [
+    {
+      "text": "Healthy",
+      "url":"/uploads/hairCondition/healthy.png"
+    },
+    {
+      "text": "Moisturized",
+      "url":"/uploads/hairCondition/moisturized.png"
+    },
+    {
+      "text": "Fried, dry or dull",
+      "url":"/uploads/hairCondition/fried.png"
+    },
+    {
+      "text": "Broken or split ends",
+      "url":"/uploads/hairCondition/broken.png"
+    },
+    {
+      "text": "Flyaways",
+      "url":"/uploads/hairCondition/flyaways.png"
+    },
+    {
+      "text": "Staticky",
+      "url":"/uploads/hairCondition/staticky.png"
+    },
+    {
+      "text": "Single strand/ fairy knots",
+      "url":"/uploads/hairCondition/single-strand.png"
+    },
+    {
+      "text": "Over processed",
+      "url":"/uploads/hairCondition/over-processed.png"
+    },
+    {
+      "text": "Thin",
+      "url":"/uploads/hairCondition/Thin.png"
+    },
+    {
+      "text": "Too flat",
+      "url":"/uploads/hairCondition/too-flat.png"
+    },
+    {
+      "text": "Damaged",
+      "url":"/uploads/hairCondition/damaged.png"
+    },
+    {
+      "text": "Frizzy",
+      "url":"/uploads/hairCondition/frizzy.png"
+    },
+    {
+      "text": "Flaky scalp",
+      "url":"/uploads/hairCondition/flaky-scalp.png"
+    },
+    {
+      "text": "Shade fade",
+      "url":"/uploads/hairCondition/shade-fade.png"
+    }
+  ],
+  "hair_porosity": [
+    {
+      "text": "Low",
+      "url":"/uploads/hairPorosity/low.svg"
+    },
+    {
+      "text": "Medium",
+      "url":"/uploads/hairPorosity/medium.svg"
+    },
+    {
+      "text": "High",
+      "url":"/uploads/hairPorosity/high.svg"
+    },
+    {
+      "text": "I don't know"
+    }
+  ],
+  "washing-frequency": [
+    {
+      "text": "Daily",
+      "url":"/uploads/washingFrequency/1.svg"
+    },
+    {
+      "text": "2-3 times per week",
+      "url":"/uploads/washingFrequency/2.svg"
+    },
+    {
+      "text": "Once per week",
+      "url":"/uploads/washingFrequency/3.svg"
+    },
+    {
+      "text": "Every 2 weeks",
+      "url":"/uploads/washingFrequency/4.svg"
+    },
+    {
+      "text": "Once a month",
+      "url":"/uploads/washingFrequency/5.svg"
+    },
+    {
+      "text": "Less than once per month",
+      "url":"/uploads/washingFrequency/6.svg"
+    }
+  ],
+  "hair_texture": [
+    {
+      "text": "fine",
+      "url":"",
+      "urlMobile": ""
+    },
+    {
+      "text": "Very Fine",
+      "url":"/uploads/hairTexture/1.svg",
+      "urlMobile": "/uploads/hairTexture/checkbox1.svg"
+    },
+    {
+      "text": "Fine",
+      "url":"/uploads/hairTexture/2.svg",
+      "urlMobile": "/uploads/hairTexture/checkbox2.svg"
+    },
+    {
+      "text": "Medium",
+      "url":"/uploads/hairTexture/3.svg",
+      "urlMobile": "/uploads/hairTexture/checkbox3.svg"
+    },
+    {
+      "text": "Coarse",
+      "url":"/uploads/hairTexture/5.svg",
+      "urlMobile": "/uploads/hairTexture/checkbox4.svg"
+    },
+    {
+      "text": "Very Coarse",
+      "url":"/uploads/hairTexture/4.svg",
+      "urlMobile": "/uploads/hairTexture/checkbox5.svg"
+    },
+    {
+      "text": "Coarse",
+      "url":"",
+      "urlMobile": ""
+    }
+  ],
+  "hair_brands": [
+    {
+      "text": "AVEDA",
+      "url": "/uploads/brands/download (3).png"
+    },
+    {
+      "text": "Alikay Naturals",
+      "url": "/uploads/brands/logo_2x.png"
+    },
+    {
+      "text": "Aunt Jackie's",
+      "url": "/uploads/brands/Bitmap.png"
+    },
+    {
+      "text": "Aussie",
+      "url": "/uploads/brands/logo4.png"
+    },
+    {
+      "text": "Aveeno",
+      "url": "/uploads/brands/logo5.png"
+    },
+    {
+      "text": "Briogeo",
+      "url": "/uploads/brands/briogeo logo.png"
+    },
+    {
+      "text": "Bumble and Bumble",
+      "url": "/uploads/brands/bumble and bumble.png"
+    },
+    {
+      "text": "CURLS",
+      "url": "/uploads/brands/CURLS logo 2.png"
+    },
+    {
+      "text": "Camille Rose Naturals",
+      "url": "/uploads/brands/Camille rose naturals.png"
+    },
+    {
+      "text": "Carol's Daughter",
+      "url": "/uploads/brands/Carols Daughter logo.png"
+    },
+    {
+      "text": "Chocolate Kinks & Curls",
+      "url": "/uploads/brands/chocolate kinks _ curls logo.png"
+    },
+    {
+      "text": "Creme of Nature",
+      "url": "/uploads/brands/creme-of-nature.png"
+    },
+    {
+      "text": "Curl Dynasty",
+      "url": "/uploads/brands/curl dynasty.png"
+    },
+    {
+      "text": "Curl Theory",
+      "url": "/uploads/brands/Curl theory.png"
+    },
+    {
+      "text": "CurlMix",
+      "url": "/uploads/brands/curlmix logo.png"
+    },
+    {
+      "text": "Curly Coily Tresses",
+      "url": "/uploads/brands/CurlyCoilyTresses logo.png"
+    },
+    {
+      "text": "Design Essentials",
+      "url": "/uploads/brands/design essentials .png"
+    },
+    {
+      "text": "Diva by Cindy",
+      "url": "/uploads/brands/diva-by-cindy logo 2.png"
+    },
+    {
+      "text": "Dove",
+      "url": "/uploads/brands/Dove logo.png"
+    },
+    {
+      "text": "EDEN Bodyworks",
+      "url": "/uploads/brands/EDEN Bodyworks.png"
+    },
+    {
+      "text": "Ecoslay",
+      "url": "/uploads/brands/logo23.png"
+    },
+    {
+      "text": "Garnier Fructis",
+      "url": "/uploads/brands/Garnier logo.png"
+    },
+    {
+      "text": "Girl + Hair",
+      "url": "/uploads/brands/Girl + Hair logo.png"
+    },
+    {
+      "text": "HPO",
+      "url": "/uploads/brands/logo26.png"
+    },
+    {
+      "text": "Head and Shoulders",
+      "url": "/uploads/brands/head and sholders.png"
+    },
+    {
+      "text": "Jane Carter Solution",
+      "url": "/uploads/brands/Jane Carter Solution logo.png"
+    },
+    {
+      "text": "John Frida",
+      "url": "/uploads/brands/John-Frieda-Logo.png"
+    },
+    {
+      "text": "Kinky-Curly",
+      "url": "/uploads/brands/Kinky Curly.png"
+    },
+    {
+      "text": "Koils by Nature",
+      "url": "/uploads/brands/koils by nature.png"
+    },
+    {
+      "text": "Kreyol Essence",
+      "url": "/uploads/brands/Kreyol Essence logo.png"
+    },
+    {
+      "text": "Kristin Ess",
+      "url": "/uploads/brands/kristin ess logo.png"
+    },
+    {
+      "text": "L'Oréal",
+      "url": "/uploads/brands/logo34.png"
+    },
+    {
+      "text": "Living Proof",
+      "url": "/uploads/brands/logo35.png"
+    },
+    {
+      "text": "Luster's",
+      "url": "/uploads/brands/logo36.png"
+    },
+    {
+      "text": "Melanin Haircare",
+      "url": "/uploads/brands/logo37.png"
+    },
+    {
+      "text": "Mielle Organics",
+      "url": "/uploads/brands/logo38.png"
+    },
+    {
+      "text": "Miss Jessie's",
+      "url": "/uploads/brands/logo39.png"
+    },
+    {
+      "text": "Mixed Chicks",
+      "url": "/uploads/brands/logo40.png"
+    },
+    {
+      "text": "MoKnowsHair",
+      "url": "/uploads/brands/logo41.png"
+    },
+    {
+      "text": "Naturalicious",
+      "url": "/uploads/brands/logo42.png"
+    },
+    {
+      "text": "NaturallClub",
+      "url": "/uploads/brands/logo43.png"
+    },
+    {
+      "text": "Obia Naturals",
+      "url": "/uploads/brands/logo44.png"
+    },
+    {
+      "text": "Ogx",
+      "url": "/uploads/brands/logo45.png"
+    },
+    {
+      "text": "Oyin Handmade",
+      "url": "/uploads/brands/logo46.png"
+    },
+    {
+      "text": "Pantene",
+      "url": "/uploads/brands/logo47.png"
+    },
+    {
+      "text": "Patterns Beauty",
+      "url": "/uploads/brands/logo48.png"
+    },
+    {
+      "text": "REDKEN",
+      "url": "/uploads/brands/logo49.png"
+    },
+    {
+      "text": "Revlon",
+      "url": "/uploads/brands/revlon logo.png"
+    },
+    {
+      "text": "Righteous Roots",
+      "url": "/uploads/brands/logo51.png"
+    },
+    {
+      "text": "Rogaine",
+      "url": "/uploads/brands/logo52.png"
+    },
+    {
+      "text": "Rucker Roots",
+      "url": "/uploads/brands/logo53.png"
+    },
+    {
+      "text": "SGX NYC",
+      "url": "/uploads/brands/logo54.png"
+    },
+    {
+      "text": "SheaMoisture",
+      "url": "/uploads/brands/logo55.png"
+    },
+    {
+      "text": "Soultranicals",
+      "url": "/uploads/brands/logo56.png"
+    },
+    {
+      "text": "Strands of Faith",
+      "url": "/uploads/brands/logo57.png"
+    },
+    {
+      "text": "Suave",
+      "url": "/uploads/brands/logo58.png"
+    },
+    {
+      "text": "TGIN",
+      "url": "/uploads/brands/logo59.png"
+    },
+    {
+      "text": "TPH by Taraji",
+      "url": "/uploads/brands/logo60.png"
+    },
+    {
+      "text": "TRESemmé",
+      "url": "/uploads/brands/logo62.png"
+    },
+    {
+      "text": "Tailored Beauty",
+      "url": "/uploads/brands/logo63.png"
+    },
+    {
+      "text": "Taliah Waajid",
+      "url": "/uploads/brands/taliah waajid.png"
+    },
+    {
+      "text": "The Doux",
+      "url": "/uploads/brands/logo65.png"
+    },
+    {
+      "text": "The Mane Choice",
+      "url": "/uploads/brands/logo66.png"
+    },
+    {
+      "text": "TreLuxe",
+      "url": "/uploads/brands/logo67.png"
+    },
+    {
+      "text": "Treasured Locks",
+      "url": "/uploads/brands/logo68.png"
+    },
+    {
+      "text": "Tropical Island Living",
+      "url": "/uploads/brands/logo69.png"
+    },
+    {
+      "text": "True by Made Beautiful",
+      "url": "/uploads/brands/logo69 copy.png"
+    },
+    {
+      "text": "Twisted Sista",
+      "url": "/uploads/brands/logo71.png"
+    },
+    {
+      "text": "Uncle Funky's Daughter",
+      "url": "/uploads/brands/logo72.png"
+    },
+    {
+      "text": "V05",
+      "url": "/uploads/brands/logo73.png"
+    },
+    {
+      "text": "Wonder Curls",
+      "url": "/uploads/brands/logo74.png"
+    }
+  ],
+  "hair_products": [
+    {
+      "text": "Target",
+      "url": "/uploads/products/icon1.png"
+    },
+    {
+      "text": "Walmart",
+      "url": "/uploads/products/icon2.png"
+    },
+    {
+      "text": "Amazon",
+      "url": "/uploads/products/icon3.png"
+    },
+    {
+      "text": "CVS",
+      "url": "/uploads/products/icon4.png"
+    },
+    {
+      "text": "Ulta",
+      "url": "/uploads/products/icon5.png"
+    },
+    {
+      "text": "Ebay",
+      "url": "/uploads/products/icon6.png"
+    },
+    {
+      "text": "Walgreens",
+      "url": "/uploads/products/icon7.png"
+    },
+    {
+      "text": "Product Manufacturer",
+      "url": "/uploads/products/icon9.svg"
+    },
+    {
+      "text": "Beauty Supply Store",
+      "url": "/uploads/products/icon8.svg"
+    },
+    {
+      "text": "4th Ave Market",
+      "url": "/uploads/products/icon10.png"
+    },
+    {
+      "text": "Other",
+      "url": "/uploads/products/icon11.svg"
+    }
+  ],
+  "final_step": {
+    "title": "The final step",
+    "description": "Enter your contact details so we can email you a copy of your hair profile and product recommendations to reference later.",
+    "formInput": [
+      {
+        "label": "First and Last Name",
+        "type": "text",
+        "placeholder": "Enter your first and last name"
+      },
+      {
+        "label": "Email",
+        "type": "email",
+        "placeholder": "Enter your email address"
+      },
+      {
+        "label": "HairDays username",
+        "type": "text",
+        "placeholder": "Enter HairDays username"
+      }
+    ],
+    "buttonSubmit": "Submit"
+  },
+  "hair_density": [
+    {
+      "text": "THIN",
+      "url": "",
+      "urlMobile": ""
+    },
+    {
+      "text": "Very Thin",
+      "url":"/uploads/dentsity/icon1.svg",
+      "urlMobile": "/uploads/dentsity/icon-checkbox1.svg"
+    },
+    {
+      "text": "Thin",
+      "url":"/uploads/dentsity/icon2.svg",
+      "urlMobile": "/uploads/dentsity/icon-checkbox2.svg"
+    },
+    {
+      "text": "Medium",
+      "url":"/uploads/dentsity/icon3.svg",
+      "urlMobile": "/uploads/dentsity/icon-checkbox3.svg"
+    },
+    {
+      "text": "Thick",
+      "url":"/uploads/dentsity/icon4.svg",
+      "urlMobile": "/uploads/dentsity/icon-checkbox4.svg"
+    },
+    {
+      "text": "Very Thick",
+      "url":"/uploads/dentsity/icon5.svg",
+      "urlMobile": "/uploads/dentsity/icon-checkbox5.svg"
+    },
+    {
+      "text": "THICK",
+      "url": "",
+      "urlMobile": ""
+    }
+  ],
+  "hair_long":
+    [
+      {
+        "text": "Bald",
+        "url": "/uploads/hairLong/1.svg",
+        "icon": "/uploads/hairLongIcons/1.svg"
+      },
+      {
+        "text": "Tiny Winy Afro/Pixie",
+        "url": "/uploads/hairLong/2.svg",
+        "icon": "/uploads/hairLongIcons/2.svg"
+      },
+      {
+        "text": "Ear length",
+        "url": "/uploads/hairLong/3.svg",
+        "icon": "/uploads/hairLongIcons/3.svg"
+      },
+      {
+        "text": "Chin length",
+        "url": "/uploads/hairLong/4.svg",
+        "icon": "/uploads/hairLongIcons/4.svg"
+      },
+      {
+        "text": "Shoulder length",
+        "url": "/uploads/hairLong/5.svg",
+        "icon": "/uploads/hairLongIcons/5.svg"
+      },
+      {
+        "text": "Collarbone length",
+        "url": "/uploads/hairLong/6.svg",
+        "icon": "/uploads/hairLongIcons/6.svg"
+      },
+      {
+        "text": "Armpit length",
+        "url": "/uploads/hairLong/7.svg",
+        "icon": "/uploads/hairLongIcons/7.svg"
+      },
+      {
+        "text": "Bra-strap length",
+        "url": "/uploads/hairLong/8.svg",
+        "icon": "/uploads/hairLongIcons/8.svg"
+      },
+      {
+        "text": "Waist length",
+        "url": "/uploads/hairLong/9.svg",
+        "icon": "/uploads/hairLongIcons/9.svg"
+      },
+      {
+        "text": "Hip length",
+        "url": "/uploads/hairLong/10.svg",
+        "icon": "/uploads/hairLongIcons/10.svg"
+      },
+      {
+        "text": "Tailbone length",
+        "url": "/uploads/hairLong/11.svg",
+        "icon": "/uploads/hairLongIcons/11.svg"
+      },
+      {
+        "text": "Classic length",
+        "url": "/uploads/hairLong/12.svg",
+        "icon": "/uploads/hairLongIcons/12.svg"
+      },
+      {
+        "text": "Mid-thigh length",
+        "url": "/uploads/hairLong/13.svg",
+        "icon": "/uploads/hairLongIcons/13.svg"
+      },
+      {
+        "text": "Knee length",
+        "url": "/uploads/hairLong/14.svg",
+        "icon": "/uploads/hairLongIcons/14.svg"
+      },
+      {
+        "text": "Calf length",
+        "url": "/uploads/hairLong/15.svg",
+        "icon": "/uploads/hairLongIcons/15.svg"
+      }
+    ]
+  ,
+  "recommendationsBlock" : {
+    "titlePage": "Recommendations",
+    "slider": [
+      {
+        "title": "1. Styling",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "video": "",
+        "products": [
+          {
+            "imgUrl": "/uploads/recommendations/styling-01.jpg",
+            "name": "100% Virgin Coconut Oil Daily Hydration Styling Gel",
+            "price": "$13.31",
+            "linkUrl": "https://amazon.com/Shea-Moisture-Percent-Coconut-Hydration/dp/B07GVV9XM8"
+          },
+          {
+            "imgUrl": "/uploads/recommendations/styling-02.jpg",
+            "name": "72 Hair Blow Dry Cream 5 ozt",
+            "price": "$18.20",
+            "linkUrl": "https://shop.naturallycurly.com/72-hair-blow-dry-cream-5-oz/"
+          },
+          {
+            "imgUrl": "/uploads/recommendations/styling-03.jpg",
+            "name": "Advantage Argan Oil Splash Spray",
+            "price": "$16.31",
+            "linkUrl": "https://www.amazon.com/Advantage-Argan-Oil-Splash-4oz/dp/B004EBZXTO"
+          }
+        ]
+      },
+      {
+        "title": "2. Washing",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "video": "",
+        "products": [
+          {
+            "imgUrl": "/uploads/recommendations/washing-01.jpg",
+            "name": "Organix Conditioner Coconut Milk 3oz",
+            "price": "$2.99",
+            "linkUrl": "https://www.amazon.com/OGX-Nourishing-Coconut-Conditioner-Ounce/dp/B0062YU670"
+          },
+          {
+            "imgUrl": "/uploads/recommendations/washing-02.jpg",
+            "name": "100% virgin coconut oil daily hydration shampoo",
+            "price": "$9.79",
+            "linkUrl": "https://www.amazon.com/Sheamoisture-Virgin-Coconut-Hydration-Shampoo/dp/B071DW92PC"
+          },
+          {
+            "imgUrl": "/uploads/recommendations/washing-03.jpg",
+            "name": "Africas Best Kids Organics Shampoo Shea Butter",
+            "price": "$5.40",
+            "linkUrl": "https://www.amazon.com/Africas-Best-Shampoo-Butter-Ounce/dp/B000E240QY"
+          }
+        ]
+      },
+      {
+        "title": "3. Treatments",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "video": "",
+        "products": [
+          {
+            "imgUrl": "/uploads/recommendations/treatments-01.jpg",
+            "name": "Africa's Best Textures Deep Moisture Conditioning Treatment 12 oz",
+            "price": "$5.18",
+            "linkUrl": "https://www.amazon.com/Africas-Best-Textures-Hydrating-Treatment/dp/B01F4EAXRQ"
+          },
+          {
+            "imgUrl": "/uploads/recommendations/treatments-02.jpg",
+            "name": "Advantage Brazilian Keratin Treatment 4 oz",
+            "price": "$38.81",
+            "linkUrl": "https://www.amazon.com/Advantage-Brazilian-Vanilla-Keratin-Treatment/dp/B0042LHBY6"
+          },
+          {
+            "imgUrl": "/uploads/recommendations/treatments-03.jpg",
+            "name": "Africa's Best Textures Ultra Smooth Edges 2.5 oz",
+            "price": "$5.72",
+            "linkUrl": "https://www.amazon.com/Africas-Best-Textures-Smooth-enriched/dp/B01F4EB12M"
+          }
+        ]
+      },
+      {
+        "title": "4. Hair color",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "video": "https://www.youtube.com/embed/4yTA-om-pRk",
+        "products": [
+          {
+            "imgUrl": "/uploads/recommendations/hair-color-01.jpg",
+            "name": "Bigen Semi-Permanent Haircolor #Bb1 Blue Black 3 Ounce (88ml)",
+            "price": "$5.32",
+            "linkUrl": "https://www.amazon.com/Bigen-Semi-Permanent-Haircolor-Black-Ounce/dp/B00GMPTRJM"
+          },
+          {
+            "imgUrl": "/uploads/recommendations/hair-color-02.jpg",
+            "name": "Bigen Permanent Powder Hair Color 48 Dark Chestnut",
+            "price": "$5.40",
+            "linkUrl": "https://www.amazon.com/Bigen-Permanent-Powder-Color-Chestnut-21/dp/B000142NDC"
+          },
+          {
+            "imgUrl": "/uploads/recommendations/hair-color-03.jpg",
+            "name": "Clairol Beautiful Collection G1A Midnight Black",
+            "price": "$7.42",
+            "linkUrl": "https://www.amazon.com/Clairol-Beautiful-Collection-Midnight-Black/dp/B01LWNF9C1"
+          }
+        ]
+      },
+      {
+        "title": "5. Tools & Accessories",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "video": "",
+        "products": [
+          {
+            "imgUrl": "/uploads/recommendations/tools-01.jpg",
+            "name": "Donna Collection Paddle Brush, Large",
+            "price": "$9.47",
+            "linkUrl": "https://www.amazon.in/Donna-Collection-Paddle-Brush-Large/dp/B071LG14MD"
+          },
+          {
+            "imgUrl": "/uploads/recommendations/tools-02.jpg",
+            "name": "ADAMA Plastic Caps, 15 pack, Clear",
+            "price": "$2.40",
+            "linkUrl": "https://www.amazon.com/Adama-Disposable-Shower-Conditioning-Processing/dp/B07FKG79KG"
+          },
+          {
+            "imgUrl": "/uploads/recommendations/tools-03.jpg",
+            "name": "CHI Original 1' Flat Hair Straightening Ceramic Hairstyling Iron 1 Inch Plates",
+            "price": "$75.58",
+            "linkUrl": "https://www.amazon.com/CHI-Original-Straightening-Ceramic-Hairstyling/dp/B0009V1YR8"
+          }
+        ]
+      }
+    ]
+  },
+  "infoBlock": {
+    "bgImg": "/uploads/bg-star.png",
+    "title": "Oprah Winfrey has a similar hair profile",
+    "imgUrl": "/uploads/woman-img.jpg"
+  },
+  "finalStepHead": {
+    "bannerIcons": "/uploads/hair-quiz-header-icons.png",
+    "bannerHeaderText": "Your Hair Quiz Resul",
+    "bannerImage": "/uploads/quiz-banner-image.svg",
+    "bannerImageMobile": "/uploads/banner-image-mobile.svg"
+  },
+  "downloadApp": {
+    "imgUrl": "/uploads/download-app-img.png",
+    "title": "Begin tracking your hair journey",
+    "description": "Download HairDays - your personal hair diary",
+    "downloadGooglePlay": "/uploads/download-google.svg",
+    "downloadAppleStore": "/uploads/download_apple.svg"
+  }
+}

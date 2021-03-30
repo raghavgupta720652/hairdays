@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css?family=Work+Sans&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  min-width: 320px;
+  height: 100%;
+  -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
+  font-family: Helvetica, Arial, sans-serif;
+  color: #000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 1.5;
+}
+
+#___gatsby {
+  min-height: 100%;
+}
+
+#wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100%;
+  min-width: 100%;
+  position: relative;
+  z-index: 1;
+  overflow-x: hidden;
+}
+
+h1, h2, h3, h4, h5 {
+  font-weight: 700;
+}
+
+a, a:hover {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+.slick-slider {
+  margin-bottom: 20px;
+  font-size: 0;
+  line-height: 0;
+
+  @media (max-width: 767px) {
+    margin-bottom: 30px;
+  }
+
+  &:focus {
+    outline: none;
+  }
+
+  .slick-list {
+    margin-bottom: 99px;
+    overflow: hidden;
+
+    @media (max-width: 1023px) {
+      margin-bottom: 60px;
+    }
+
+    @media (max-width: 767px) {
+      margin-bottom: 40px;
+    }
+
+    &:focus {
+      outline: none;
+    }
+  }
+
+  .slick-track {
+
+    &:focus {
+      outline: none;
+    }
+  }
+
+  .slick-slide {
+    display: inline-block;
+    vertical-align: top;
+    font-size: 16px;
+    line-height: 1.5;
+
+    & > div {
+
+      &:focus {
+        outline: none;
+      }
+
+      & > div {
+
+        &:focus {
+          outline: none;
+        }
+      }
+    }
+  }
+
+  .slick-dots {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    
+    li {
+      margin-right: 10px;
+      display: inline-block;
+      vertical-align: top;
+
+      &:last-child {
+        margin-right: 0;
+      }
+
+      button {
+        padding: 0;
+        width: 19px;
+        height: 8px;
+        background-color: #e0e0e0;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        transition: all .3s ease;
+
+        &:focus {
+          outline: none;
+        }
+      }
+
+      &.slick-active {
+
+        button {
+          width: 38px;
+          background-color: #ff6348;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+.page {
+  width: 100%;
+  border: 1px solid #ebebeb;
+  margin-bottom: 100px;
+}
+
+.results {
+  width: 100%;
+  padding: 14px 30px 14px 30px;
+  border-bottom: 1px solid #ebebeb;
+  display: flex;
+  align-items: center;
+
+  @media (max-width: 767px) {
+    flex-direction: column;
+  }
+}
+
+.header-container {
+  width: 28%;
+
+  @media (max-width: 767px) {
+    width: 100%;
+  }
+}
+
+.header {
+  color: rgb(3, 3, 3);
+  font-size: 18px;
+  font-weight: bold;
+  height: 24px;
+  letter-spacing: 0px;
+  line-height: 24px;
+  width: 319px;
+}
+
+.answers {
+  display: flex;
+  flex-wrap: wrap;
+  width: 75%;
+
+  @media (max-width: 767px) {
+    width: 100%;
+  }
+}
